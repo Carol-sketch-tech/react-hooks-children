@@ -4,7 +4,7 @@ import Container from "./Container";
 function App() {
   return (
     <div className="App">
-      <Container header="Example header" direction="horizontal">
+      <Container header="Example header" direction="vertical">
         <div>This is an example!</div>
         <div>This is an example!</div>
         <div>This is an example!</div>
